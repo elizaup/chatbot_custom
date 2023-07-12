@@ -1,2 +1,2 @@
-# chatbot_custom
+# ChatGPT_Custom_Knoweldge
 Chatbot with custom knowledge 
