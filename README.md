@@ -1,2 +1,3 @@
 # ChatGPT_Custom_Knoweldge
-Chatbot with custom knowledge 
+
+Chat with your own data and supplement chatgpt with custom knowledge. 
